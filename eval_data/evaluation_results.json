@@ -1,0 +1,49 @@
+{
+  "overall_scores": {
+    "faithfulness": 0.76,
+    "answer_relevancy": 0.6,
+    "context_precision": 0.7333
+  },
+  "per_question": [
+    {
+      "question": "What documents are required for KYC as per RBI guidelines?",
+      "answer": "I could not find this in the documents. However, based on the context, it seems that the question is related to the requirements for KYC updation. \n\nFor periodic updation of KYC, the requirement of documents depends on the modes used, as mentioned in the reply to Q 24. \n\nFor change in KYC information, the customer has to provide the documents as mentioned in the reply to Q 5. \n\nFor no change in KYC information or change only in address, a self-declaration is required.",
+      "ground_truth": "As per RBI KYC Master Direction, officially valid documents for KYC include Passport, Driving Licence, Voter ID, PAN Card, Aadhaar Card, and NREGA Job Card. One document for identity and one for address proof is required.",
+      "faithfulness": 0.8,
+      "answer_relevancy": 0.5,
+      "context_precision": 0.3333
+    },
+    {
+      "question": "What is the maximum compensation under the Banking Ombudsman Scheme?",
+      "answer": "The maximum compensation under the Banking Ombudsman Scheme is two million rupees, whichever is lower, or the actual loss suffered by the complainant as a direct consequence of the act of omission or commission of the bank.",
+      "ground_truth": "Under the RBI Integrated Ombudsman Scheme 2021, the Ombudsman can award compensation up to Rs 20 lakh for consequential loss and up to Rs 1 lakh for loss of time and expenses incurred by the complainant.",
+      "faithfulness": 0.8,
+      "answer_relevancy": 0.9,
+      "context_precision": 1.0
+    },
+    {
+      "question": "What should a customer do if a credit card is issued without consent?",
+      "answer": "Card issuers are prohibited from issuing unsolicited credit cards and are required to seek prior and explicit consent from the customer before issuing a card. However, if the customer receives an unsolicited card, he/she should refrain from activating or providing consent for activation of card through OTP or any other means. If no consent is received for activating the card, the card-issuer is required to close the credit card account without any further action.",
+      "ground_truth": "As per RBI Credit Card guidelines, if a credit card is issued without consent the customer should immediately contact the card issuer and file a complaint. The card issuer must resolve the complaint and the card must be closed immediately on customer request.",
+      "faithfulness": 0.8,
+      "answer_relevancy": 0.8,
+      "context_precision": 1.0
+    },
+    {
+      "question": "What is the time limit for filing a complaint with Banking Ombudsman?",
+      "answer": "I could not find this in the documents.",
+      "ground_truth": "A complaint must be filed within one year after the complainant receives the reply from the bank, or within one year and one month from the date of the complaint to the bank if no reply is received.",
+      "faithfulness": 0.5,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.3333
+    },
+    {
+      "question": "What is Digital KYC as per RBI?",
+      "answer": "As per the RBI guidelines, \"Digital KYC\" means the capturing live photo of the customer and officially valid document or the proof of possession of Aadhaar, where offline verification cannot be carried out, along with the latitude and longitude of the location where such live photo is being taken by an authorised officer of the RE as per the provisions contained in the Act.",
+      "ground_truth": "Digital KYC means capturing a live photo of the customer along with an officially valid document and the latitude and longitude of the location where the photo is taken by an authorised officer of the regulated entity.",
+      "faithfulness": 0.9,
+      "answer_relevancy": 0.8,
+      "context_precision": 1.0
+    }
+  ]
+}

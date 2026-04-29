@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What documents are required for KYC as per RBI guidelines?",
+    "ground_truth": "As per RBI KYC Master Direction, officially valid documents for KYC include Passport, Driving Licence, Voter ID, PAN Card, Aadhaar Card, and NREGA Job Card. One document for identity and one for address proof is required."
+  },
+  {
+    "question": "What is the maximum compensation under the Banking Ombudsman Scheme?",
+    "ground_truth": "Under the RBI Integrated Ombudsman Scheme 2021, the Ombudsman can award compensation up to Rs 20 lakh for consequential loss and up to Rs 1 lakh for loss of time and expenses incurred by the complainant."
+  },
+  {
+    "question": "What should a customer do if a credit card is issued without consent?",
+    "ground_truth": "As per RBI Credit Card guidelines, if a credit card is issued without consent the customer should immediately contact the card issuer and file a complaint. The card issuer must resolve the complaint and the card must be closed immediately on customer request."
+  },
+  {
+    "question": "What is the time limit for filing a complaint with Banking Ombudsman?",
+    "ground_truth": "A complaint must be filed within one year after the complainant receives the reply from the bank, or within one year and one month from the date of the complaint to the bank if no reply is received."
+  },
+  {
+    "question": "What is Digital KYC as per RBI?",
+    "ground_truth": "Digital KYC means capturing a live photo of the customer along with an officially valid document and the latitude and longitude of the location where the photo is taken by an authorised officer of the regulated entity."
+  },
+  {
+    "question": "Can a credit card be activated without customer consent?",
+    "ground_truth": "No. As per RBI Credit Card guidelines, if a credit card is not activated by the cardholder for more than 30 days from issuance, card issuers must seek OTP based consent before activation."
+  },
+  {
+    "question": "What is the toll free number for RBI Ombudsman complaints?",
+    "ground_truth": "The toll free contact centre number for RBI Integrated Ombudsman is 14448, operational from 9:30 am to 5:15 pm in Hindi, English and regional languages."
+  },
+  {
+    "question": "Is fresh KYC needed when transferring account between branches of same bank?",
+    "ground_truth": "No. As per RBI KYC Master Direction, KYC verification done by one branch of a regulated entity is valid for transfer to any other branch of the same entity, provided full KYC has already been completed."
+  },
+  {
+    "question": "What is Video based Customer Identification Process in KYC?",
+    "ground_truth": "V-CIP is a method of customer identification using seamless live video interaction between the bank official and the customer. It is treated on par with face to face onboarding as per RBI KYC Master Direction."
+  },
+  {
+    "question": "What are the hidden charges rules for credit cards as per RBI?",
+    "ground_truth": "As per RBI Credit Card Master Direction, there shall not be any hidden charges while issuing credit cards free of charge. All charges including APR, annual fee, and late payment charges must be shown with equal prominence."
+  },
+  {
+    "question": "Where should physical complaints to RBI Ombudsman be sent?",
+    "ground_truth": "Physical complaints should be sent to the Centralised Receipt and Processing Centre at Reserve Bank of India, 4th Floor, Sector 17, Chandigarh - 160017."
+  },
+  {
+    "question": "What is OTP based KYC and what are its limitations?",
+    "ground_truth": "OTP based e-KYC is a non-face-to-face account opening method using Aadhaar OTP authentication. Accounts opened using OTP based KYC must complete full CDD procedure within one year otherwise the account shall be closed immediately."
+  },
+  {
+    "question": "Can a customer get compensation for mental harassment by bank recovery agents?",
+    "ground_truth": "Yes. RBI guidelines prohibit banks and their recovery agents from resorting to intimidation or harassment. Banks must ensure agents do not humiliate publicly or intrude privacy of credit card holders or their family members."
+  },
+  {
+    "question": "What is the Centralised KYC Registry?",
+    "ground_truth": "CKYCR is a centralised repository of KYC records. Once KYC is done with one regulated entity and uploaded to CKYCR, other entities can download the KYC data using the KYC Identifier, eliminating the need to submit documents again."
+  },
+  {
+    "question": "How many advance intimations must a bank give before KYC updation due date?",
+    "ground_truth": "As per RBI KYC Master Direction, banks must give at least three advance intimations including at least one by letter before the KYC updation due date, and at least three reminders after the due date to customers who have not complied."
+  },
+  {
+    "question": "What is the RBI Integrated Ombudsman Scheme 2021?",
+    "ground_truth": "The RBI Integrated Ombudsman Scheme 2021 was launched on 12 November 2021. It integrates the Banking Ombudsman Scheme 2006, the Ombudsman Scheme for NBFCs 2018, and the Ombudsman Scheme for Digital Transactions 2019 into one unified scheme."
+  },
+  {
+    "question": "Can add-on credit cards be issued to anyone?",
+    "ground_truth": "No. As per RBI Credit Card guidelines, add-on cards can only be issued to persons specifically identified by the principal cardholder. The liability of add-on cards is that of the principal cardholder."
+  },
+  {
+    "question": "What happens if a bank does not respond to a Banking Ombudsman complaint?",
+    "ground_truth": "If a bank does not furnish satisfactory and timely information or documents to the Ombudsman, an Award can be issued against it and the bank does not have the right to appeal against such an Award."
+  },
+  {
+    "question": "Is Aadhaar mandatory for KYC?",
+    "ground_truth": "Aadhaar is mandatory only where the customer is required to receive any subsidy benefit or service under section 7 of the Aadhaar Act 2016. In other cases the Aadhaar number may optionally be provided."
+  },
+  {
+    "question": "What is the minimum balance penalty rule as per RBI?",
+    "ground_truth": "RBI guidelines state that banks must inform customers in advance before levying charges for non-maintenance of minimum balance. Banks must give adequate notice and the charges must be reasonable and proportionate."
+  }
+]

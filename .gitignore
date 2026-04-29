@@ -1,0 +1,48 @@
+
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Qdrant storage — auto generated when you run ingest.py
+qdrant_storage/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# pytest
+.pytest_cache/
+
+# Evaluation results — optional to push
+# eval_data/evaluation_results.json
